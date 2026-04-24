@@ -28,14 +28,20 @@ This was used as a proxy to determine how much value current natural science stu
 ## Results
 
 <img src="static/imgs/violin_plot.png" alt="violin plot "  width="500"/>
+
 A violin plot displaying the resultant data. Box-and-whisker structure indicates quartiles, and morphology indicates distribution.
 
 
+
 <img src="static/imgs/line_plot.png" alt="line plot "  width="500"/>
+
 A line plot displaying the resultant data.
 
+
 <img src="static/imgs/swarm_plot.png" alt="swarm plot "  width="500"/>
+
 A violin plot displying the resultant data.
+
 
 ## Conclusion
 
