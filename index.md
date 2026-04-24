@@ -17,7 +17,7 @@ Natural science students may be dissuaded from taking or disinterested in COMP 1
 
 To analyze the opinions of natural science students on the relevance of computer science, we accessed the class survey data of Professor Hinks.
 
-From this data set, we filtered out data originating from 3 highly populated natural science majors from the class: Biology, Chemistry, and Environmental Science.
+From this data set, we filtered out data originating from 3 highly populated natural science majors from the class: Biology (N=84), Chemistry (N=10), and Environmental Science (N=25).
 
 We sorted these students based on major and graphed their responses to the "valuable" question, which asked students to evaluate:
 
@@ -28,10 +28,14 @@ This was used as a proxy to determine how much value current natural science stu
 ## Results
 
 <img src="static/imgs/violin_plot.png" alt="violin plot "  width="500"/>
+A violin plot displaying the resultant data. Box-and-whisker structure indicates quartiles, and morphology indicates distribution.
+
 
 <img src="static/imgs/line_plot.png" alt="line plot "  width="500"/>
+A line plot displaying the resultant data.
 
 <img src="static/imgs/swarm_plot.png" alt="swarm plot "  width="500"/>
+A violin plot displying the resultant data.
 
 ## Conclusion
 
