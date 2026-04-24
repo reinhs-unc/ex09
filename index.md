@@ -28,10 +28,11 @@ This was used as a proxy to determine how much value current natural science stu
 ## Results
 
 <img sr="static/imgs/violin_plot.png" alt="violin plot "  width="500"/>
+!["violin plot"](violin.png)
 
-<img sr="static/imgs/line_plot.png" alt="violin plot "  width="500"/>
+<img sr="static/imgs/line_plot.png" alt="line plot "  width="500"/>
 
-<img sr="static/imgs/swarm_plot.png" alt="violin plot "  width="500"/>
+<img sr="static/imgs/swarm_plot.png" alt="swarm plot "  width="500"/>
 
 ## Conclusion
 
