@@ -3,11 +3,11 @@
 layout: default
 ---
 
-# COMP 110 and its value for natural science students
+# COMP 110 and its Value for Natural Science Students
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
-## Many natural science students participate in COMP 110
+## Many Natural Science Students Participate in COMP 110
 
 As computer science becomes increasingly integrated in many disciplines, more natural science major tracks are requiring COMP110 as an introductory course to discipline. However, COMP110 does not prominently present ways in which computer science is applicable to these disciplines.
 
@@ -27,12 +27,11 @@ This was used as a proxy to determine how much value current natural science stu
 
 ## Results
 
-<img sr="static/imgs/violin_plot.png" alt="violin plot "  width="500"/>
-!["violin plot"](violin.png)
+<img src="static/imgs/violin_plot.png" alt="violin plot "  width="500"/>
 
-<img sr="static/imgs/line_plot.png" alt="line plot "  width="500"/>
+<img src="static/imgs/line_plot.png" alt="line plot "  width="500"/>
 
-<img sr="static/imgs/swarm_plot.png" alt="swarm plot "  width="500"/>
+<img src="static/imgs/swarm_plot.png" alt="swarm plot "  width="500"/>
 
 ## Conclusion
 
